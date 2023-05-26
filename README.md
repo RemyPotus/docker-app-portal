@@ -1,8 +1,12 @@
-# docker-team-portal
+# docker-app-portal
 
 This is a school project for my master's degree.
 
 The goal is to setup a Heimdall team portal using docker.
+
+This portal will give access to 2 sets of applications :  
+<li>My librairies (Sonarr, Radarrn, Calibre)</li>  
+<li>My dev environment (it-tools, Obsidian, SonarQube)</li>   
 
 # How to use ?
 
